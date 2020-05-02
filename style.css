@@ -1,0 +1,75 @@
+h1{
+    color:  rgb(77, 214, 180);
+    padding-top: 0.1%;
+    padding-bottom: 0.1%;
+    padding-left: 0.3%;
+    border: solid;
+    border-color: black;
+    background-color:rgb(196, 50, 176);
+    
+    
+}
+.x{
+    /*color: rgb(95, 46, 95);*/
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 8.5%;
+    border: solid;
+    opacity: 1;
+    justify-content: center;
+    
+
+}
+
+.x{
+    position: relative;
+}
+
+.x p{
+    position: absolute;
+
+    top:46%;
+    left:50%;
+    transform: translate(-53%,-53%);
+    opacity:0;
+}
+
+.x:hover p{
+    opacity: 1;
+    
+}
+
+.x:hover img{
+   opacity: 0.33;
+}
+
+.l1{
+    padding-top: 1%;
+    padding-left: 0.3%;
+    background-color: rgb(214, 166, 208);
+    border: solid;
+    
+}
+
+.Links{
+    
+    padding-top: 1%;
+    padding-left: 0.3%;
+    background-color: rgb(212, 84, 212);
+    border: solid;
+    flex-wrap: wrap;
+   
+    
+}
+  
+
+.links{
+    padding-top: 1%;
+    padding-bottom: 1;
+    padding-left: 0.3%;
+    background-color: rgb(219, 128, 219);
+    border: solid;
+    flex-wrap: wrap;
+    
+    
+}
